@@ -1,15 +1,17 @@
 # 🌱 SmartCrop Lite
 
 ## 📌 Overview
-SmartCrop Lite is a data-driven platform designed to empower smallholder farmers with real-time market price insights and simple climate alerts to improve decision-making and income stability.
+SmartCrop Lite is a data-driven decision support system designed to empower smallholder farmers with timely market price insights and basic climate alerts.
+
+The platform enables farmers to make informed decisions on when to sell and plant, reducing losses and improving income stability.
 
 ---
 
 ## 🚀 Features
-- 📊 Crop price tracking
-- 🌦️ Weather alerts (basic)
+- 📊 Real-time crop price visualization
+- 🌦️ Basic weather alerts and advisories
 - 📈 Market insights and recommendations
-- 📱 Mobile-friendly dashboard
+- 📱 Lightweight, mobile-friendly dashboard
 
 ---
 
@@ -42,30 +44,47 @@ streamlit run app.py
 ---
 
 ## 📊 Sample Output
-(Screenshot will be added after deployment)
+
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## 🎯 Use Case
-Designed for youth farmers and smallholder farmers in Kenya to:
+This project is designed for:
+- Youth farmers
+- Smallholder farmers
+- Agribusiness groups
+
+It helps:
 - Improve price awareness
-- Reduce exploitation by middlemen
-- Support data-driven agriculture
+- Reduce exploitation by intermediaries
+- Enable data-driven agricultural decisions
 
 ---
 
 ## 🌍 Impact
-- Supports youth empowerment
-- Enhances agricultural productivity
-- Promotes climate-aware farming
+SmartCrop Lite contributes to:
+- Poverty reduction through increased farmer income
+- Food security through better decision-making
+- Climate resilience through weather awareness
+
+---
+
+## 🧠 Data Strategy
+The system is designed to integrate:
+- Field-collected market data
+- Institutional datasets
+- User-generated farmer inputs
+
+This ensures scalability and continuous improvement of data quality.
 
 ---
 
 ## 🔮 Future Improvements
-- SMS integration (Africa’s Talking)
-- Real-time API integration
-- Predictive analytics
-- Expansion to multiple regions
+- SMS integration for low-connectivity users
+- Real-time API data integration
+- Predictive analytics for price forecasting
+- Expansion across regions and crop types
 
 ---
 
