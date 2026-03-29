@@ -45,9 +45,8 @@ streamlit run app.py
 
 ## 📊 Sample Output
 
-## 📊 Sample Output
 
-![SmartCrop Dashboard](images/dashboard.png)
+![SmartCrop Dashboard](images/file_0000000043cc71f88eadfef16288548c.png)
 
 ---
 
