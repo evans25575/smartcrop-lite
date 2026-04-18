@@ -17,8 +17,7 @@ The platform enables farmers, agronomists, and field programme teams to make inf
 - **Where to sell** — based on county-level market price comparisons
 - **What inputs to apply** — based on soil pH, fertility, and nutrient profiles
 
-> *"Built to demonstrate geospatial agricultural analytics for smallholder farmer decision-support — directly aligned with One Acre Fund R&D analytical methods."*
-
+> *"Built to demonstrate geospatial agricultural analytics for smallholder farmer decision-support.
 ---
 
 ## 🚀 Features (v2.0)
