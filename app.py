@@ -559,5 +559,5 @@ st.markdown("---")
 st.markdown(
     "🌱 **SmartCrop Lite v2.0** · Built by [Evans Kiplangat](https://github.com/evans25575) · "
     "Data: CHIRPS (rainfall), iSDA Africa (soil), County Market Surveys (prices) · "
-    "For One Acre Fund R&D alignment and smallholder farmer decision support"
+    
 )
