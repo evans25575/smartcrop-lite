@@ -78,11 +78,7 @@ smartcrop-lite/
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/evans25575/smartcrop-lite.git
-cd smartcrop-lite
-pip install -r requirements.txt
-streamlit run app.py
-```
+https://smartcrop-lite-bjjh8evg2pyzjwnwymzmwb.streamlit.app/
 
 ---
 
