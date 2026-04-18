@@ -1,8 +1,41 @@
-Crop,Price_KSh
-Maize,3200
-Beans,8500
-Tomatoes,5000
-Potatoes,2800
-Onions,4500
-Rice,6000
-Cabbage,1500
+county,crop,price_ksh_per_kg,market,date,latitude,longitude
+Nakuru,Maize,45,Nakuru Main Market,2026-04-01,0.3031,36.0800
+Nakuru,Beans,120,Nakuru Main Market,2026-04-01,0.3031,36.0800
+Nakuru,Wheat,55,Nakuru Main Market,2026-04-01,0.3031,36.0800
+Nakuru,Potatoes,35,Nakuru Main Market,2026-04-01,0.3031,36.0800
+Uasin Gishu,Maize,42,Eldoret Wakulima,2026-04-01,0.5143,35.2698
+Uasin Gishu,Beans,115,Eldoret Wakulima,2026-04-01,0.5143,35.2698
+Uasin Gishu,Wheat,58,Eldoret Wakulima,2026-04-01,0.5143,35.2698
+Uasin Gishu,Potatoes,38,Eldoret Wakulima,2026-04-01,0.5143,35.2698
+Meru,Maize,48,Meru Town Market,2026-04-01,-0.0467,37.6497
+Meru,Beans,130,Meru Town Market,2026-04-01,-0.0467,37.6497
+Meru,Potatoes,40,Meru Town Market,2026-04-01,-0.0467,37.6497
+Meru,Sorghum,60,Meru Town Market,2026-04-01,-0.0467,37.6497
+Trans Nzoia,Maize,40,Kitale Market,2026-04-01,1.0154,35.0062
+Trans Nzoia,Beans,118,Kitale Market,2026-04-01,1.0154,35.0062
+Trans Nzoia,Wheat,52,Kitale Market,2026-04-01,1.0154,35.0062
+Trans Nzoia,Sorghum,55,Kitale Market,2026-04-01,1.0154,35.0062
+Nyeri,Maize,50,Nyeri Municipal Market,2026-04-01,-0.4167,36.9500
+Nyeri,Beans,125,Nyeri Municipal Market,2026-04-01,-0.4167,36.9500
+Nyeri,Potatoes,42,Nyeri Municipal Market,2026-04-01,-0.4167,36.9500
+Nyeri,Wheat,57,Nyeri Municipal Market,2026-04-01,-0.4167,36.9500
+Kisumu,Maize,46,Kibuye Market,2026-04-01,-0.1022,34.7617
+Kisumu,Beans,122,Kibuye Market,2026-04-01,-0.1022,34.7617
+Kisumu,Sorghum,58,Kibuye Market,2026-04-01,-0.1022,34.7617
+Machakos,Maize,50,Machakos Town Market,2026-04-01,-1.5177,37.2634
+Machakos,Beans,128,Machakos Town Market,2026-04-01,-1.5177,37.2634
+Machakos,Sorghum,62,Machakos Town Market,2026-04-01,-1.5177,37.2634
+Nakuru,Maize,43,Nakuru Main Market,2026-03-01,0.3031,36.0800
+Nakuru,Beans,118,Nakuru Main Market,2026-03-01,0.3031,36.0800
+Uasin Gishu,Maize,40,Eldoret Wakulima,2026-03-01,0.5143,35.2698
+Uasin Gishu,Beans,112,Eldoret Wakulima,2026-03-01,0.5143,35.2698
+Meru,Maize,45,Meru Town Market,2026-03-01,-0.0467,37.6497
+Meru,Beans,125,Meru Town Market,2026-03-01,-0.0467,37.6497
+Trans Nzoia,Maize,38,Kitale Market,2026-03-01,1.0154,35.0062
+Trans Nzoia,Beans,115,Kitale Market,2026-03-01,1.0154,35.0062
+Nakuru,Maize,41,Nakuru Main Market,2026-02-01,0.3031,36.0800
+Nakuru,Beans,115,Nakuru Main Market,2026-02-01,0.3031,36.0800
+Uasin Gishu,Maize,39,Eldoret Wakulima,2026-02-01,0.5143,35.2698
+Uasin Gishu,Beans,110,Eldoret Wakulima,2026-02-01,0.5143,35.2698
+Meru,Maize,44,Meru Town Market,2026-02-01,-0.0467,37.6497
+Trans Nzoia,Maize,37,Kitale Market,2026-02-01,1.0154,35.0062

@@ -1,0 +1,8 @@
+county,latitude,longitude,soil_type,ph,nitrogen_pct,phosphorus_ppm,potassium_ppm,organic_carbon_pct,texture,drainage,fertility_rating,lime_recommendation_tonnes_ha,fertiliser_recommendation
+Nakuru,0.3031,36.0800,Nitisols,5.8,0.18,22,280,2.1,Clay Loam,Well drained,High,0.5,CAN 50kg/ha + DAP 50kg/ha
+Uasin Gishu,0.5143,35.2698,Humic Nitisols,6.1,0.22,28,310,2.8,Clay,Well drained,High,0.0,CAN 50kg/ha + DAP 50kg/ha
+Meru,-0.0467,37.6497,Andosols,5.5,0.15,18,240,1.9,Loam,Well drained,Medium,1.0,CAN 75kg/ha + DAP 50kg/ha
+Trans Nzoia,1.0154,35.0062,Humic Nitisols,6.3,0.24,30,320,3.1,Clay,Well drained,High,0.0,CAN 50kg/ha + DAP 50kg/ha
+Nyeri,-0.4167,36.9500,Nitisols,5.6,0.16,20,260,2.0,Clay Loam,Moderately drained,Medium,0.5,CAN 75kg/ha + DAP 50kg/ha
+Kisumu,-0.1022,34.7617,Vertisols,6.8,0.12,15,200,1.4,Heavy Clay,Poorly drained,Low,0.0,CAN 100kg/ha + DAP 75kg/ha
+Machakos,-1.5177,37.2634,Cambisols,5.2,0.10,12,180,0.9,Sandy Loam,Well drained,Low,1.5,CAN 100kg/ha + DAP 75kg/ha

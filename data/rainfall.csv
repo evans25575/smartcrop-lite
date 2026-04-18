@@ -1,0 +1,29 @@
+county,latitude,longitude,month,year,rainfall_mm,long_term_avg_mm,anomaly_pct,planting_signal
+Nakuru,0.3031,36.0800,January,2026,45,52,-13.5,Watch
+Nakuru,0.3031,36.0800,February,2026,38,44,-13.6,Watch
+Nakuru,0.3031,36.0800,March,2026,85,92,-7.6,Plant
+Nakuru,0.3031,36.0800,April,2026,120,115,4.3,Plant
+Uasin Gishu,0.5143,35.2698,January,2026,62,70,-11.4,Watch
+Uasin Gishu,0.5143,35.2698,February,2026,55,60,-8.3,Watch
+Uasin Gishu,0.5143,35.2698,March,2026,110,105,4.8,Plant
+Uasin Gishu,0.5143,35.2698,April,2026,145,140,3.6,Plant
+Meru,-0.0467,37.6497,January,2026,70,65,7.7,Plant
+Meru,-0.0467,37.6497,February,2026,55,58,-5.2,Watch
+Meru,-0.0467,37.6497,March,2026,95,100,-5.0,Watch
+Meru,-0.0467,37.6497,April,2026,160,150,6.7,Plant
+Trans Nzoia,1.0154,35.0062,January,2026,80,88,-9.1,Watch
+Trans Nzoia,1.0154,35.0062,February,2026,75,78,-3.8,Watch
+Trans Nzoia,1.0154,35.0062,March,2026,125,120,4.2,Plant
+Trans Nzoia,1.0154,35.0062,April,2026,155,148,4.7,Plant
+Nyeri,-0.4167,36.9500,January,2026,42,50,-16.0,Watch
+Nyeri,-0.4167,36.9500,February,2026,38,42,-9.5,Watch
+Nyeri,-0.4167,36.9500,March,2026,90,95,-5.3,Watch
+Nyeri,-0.4167,36.9500,April,2026,130,125,4.0,Plant
+Kisumu,-0.1022,34.7617,January,2026,55,60,-8.3,Watch
+Kisumu,-0.1022,34.7617,February,2026,48,52,-7.7,Watch
+Kisumu,-0.1022,34.7617,March,2026,100,98,2.0,Plant
+Kisumu,-0.1022,34.7617,April,2026,140,135,3.7,Plant
+Machakos,-1.5177,37.2634,January,2026,30,38,-21.1,Delay
+Machakos,-1.5177,37.2634,February,2026,28,35,-20.0,Delay
+Machakos,-1.5177,37.2634,March,2026,65,72,-9.7,Watch
+Machakos,-1.5177,37.2634,April,2026,95,90,5.6,Plant
