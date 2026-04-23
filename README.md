@@ -1,6 +1,9 @@
 # 🌱 SmartCrop Lite v2.0
 ### Geospatial Agricultural Decision-Support System for Smallholder Farmers
 
+
+[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Launch%20Loan%20Guard%20AI-006BA6?style=for-the-badge)](https://smartcrop-lite-bjjh8evg2pyzjwnwymzmwb.streamlit.app/)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
